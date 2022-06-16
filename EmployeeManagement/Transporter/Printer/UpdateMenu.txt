@@ -1,0 +1,5 @@
+____  
+\ _/    7. Update info
+//      8. Fire employee
+\\_     9. Promote employee
+/__\   10. Demote employee

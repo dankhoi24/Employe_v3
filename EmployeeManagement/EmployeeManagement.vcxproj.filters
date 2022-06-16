@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{9dbad9c2-0ec7-4d9a-8f74-fc1f6687da96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{07b8ca9c-9dc4-4389-9c7b-d4a1d21ac575}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DAO\DBConnection.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Employee.h" />
+    <ClInclude Include="Model\Title.h" />
+    <ClInclude Include="DAO\BaseDAO.h" />
+    <ClInclude Include="DAO\EmployeeDAO.h" />
+    <ClInclude Include="Handler\BaseHandler.h" />
+    <ClInclude Include="Transporter\Inputer.h" />
+    <ClInclude Include="Handler\SidebarHandler.h" />
+    <ClInclude Include="Handler\ViewHandler.h" />
+    <ClInclude Include="Transporter\BaseTransporter.h" />
+    <ClInclude Include="Handler\SearchHandler.h" />
+    <ClInclude Include="Handler\UpdateHandler.h" />
+    <ClInclude Include="Handler\AddHandler.h" />
+    <ClInclude Include="Model\TimeT.h" />
+    <ClInclude Include="Lib\ColorLib.h" />
+    <ClInclude Include="Lib\PrintLib.h" />
+    <ClInclude Include="DAO\TitleDAO.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DAO\DBConnection.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="EMain.cpp" />
+    <ClCompile Include="Model\Employee.cpp" />
+    <ClCompile Include="Model\Title.cpp" />
+    <ClCompile Include="DAO\BaseDAO.cpp" />
+    <ClCompile Include="DAO\EmployeeDAO.cpp" />
+    <ClCompile Include="Transporter\Inputer.cpp" />
+    <ClCompile Include="Handler\BaseHandler.cpp" />
+    <ClCompile Include="Transporter\BaseTransporter.cpp" />
+    <ClCompile Include="Handler\ViewHandler.cpp" />
+    <ClCompile Include="Handler\SidebarHandler.cpp" />
+    <ClCompile Include="Handler\SearchHandler.cpp" />
+    <ClCompile Include="Handler\UpdateHandler.cpp" />
+    <ClCompile Include="Handler\AddHandler.cpp" />
+    <ClCompile Include="Model\TimeT.cpp" />
+    <ClCompile Include="Lib\PrintLib.cpp" />
+    <ClCompile Include="DAO\TitleDAO.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Transporter\Printer\SidebarMenu.txt" />
+    <Text Include="Transporter\Printer\ViewMenu.txt" />
+    <Text Include="Handler\Text.txt" />
+    <Text Include="Transporter\Printer\SearchMenu.txt" />
+    <Text Include="Transporter\Printer\SearchInput.txt" />
+    <Text Include="Transporter\Printer\UpdateMenu.txt" />
+    <Text Include="Model\Roles.txt" />
+    <Text Include="Transporter\Printer\AddMenu.txt" />
+    <Text Include="Transporter\Printer\AddForm\Add_name.txt" />
+    <Text Include="Transporter\Printer\logo.txt" />
+  </ItemGroup>
+</Project>
