@@ -2,16 +2,7 @@
 
 $\color{8b94ce}\rule{500px}{2px}$
 
-<aside>
-<img src="Report%20-%20EM%20a9bed21a848a4a398e8f652a7229d450/image_2022-07-07_193223429.png" alt="Report%20-%20EM%20a9bed21a848a4a398e8f652a7229d450/image_2022-07-07_193223429.png" width="40px" /> $\text{Table of content}$
-[I. Overview](https://www.notion.so/Report-EM-8a4fed8494574d85b6cb6fab5dddd229)
-[II. Detail](https://www.notion.so/Report-EM-8a4fed8494574d85b6cb6fab5dddd229)
-    [1. Handler](https://www.notion.so/Report-EM-8a4fed8494574d85b6cb6fab5dddd229)
-    [2. Printer](https://www.notion.so/Report-EM-8a4fed8494574d85b6cb6fab5dddd229)
-    [3. Role](https://www.notion.so/Report-EM-8a4fed8494574d85b6cb6fab5dddd229)    
-    [4. Screen](https://www.notion.so/Report-EM-8a4fed8494574d85b6cb6fab5dddd229)
 
-</aside>
 
 ## I. Overview
 
